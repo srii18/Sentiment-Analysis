@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+wordcloud
+nltk
+
+pip install -r requirements.txt
